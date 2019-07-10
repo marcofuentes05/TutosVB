@@ -1,0 +1,18 @@
+C:\Users\Marco\AppData\Local\Temporary Projects\Test de Computacion\bin\Debug\Test de Computacion.exe
+C:\Users\Marco\AppData\Local\Temporary Projects\Test de Computacion\bin\Debug\Test de Computacion.pdb
+C:\Users\Marco\AppData\Local\Temporary Projects\Test de Computacion\bin\Debug\Test de Computacion.xml
+C:\Users\Marco\AppData\Local\Temporary Projects\Test de Computacion\obj\x86\Debug\Test_de_Computacion.Form1.resources
+C:\Users\Marco\AppData\Local\Temporary Projects\Test de Computacion\obj\x86\Debug\Test_de_Computacion.Resources.resources
+C:\Users\Marco\AppData\Local\Temporary Projects\Test de Computacion\obj\x86\Debug\Test de Computacion.vbproj.GenerateResource.Cache
+C:\Users\Marco\AppData\Local\Temporary Projects\Test de Computacion\obj\x86\Debug\Test de Computacion.exe
+C:\Users\Marco\AppData\Local\Temporary Projects\Test de Computacion\obj\x86\Debug\Test de Computacion.xml
+C:\Users\Marco\AppData\Local\Temporary Projects\Test de Computacion\obj\x86\Debug\Test de Computacion.pdb
+C:\Users\Marco\Documents\Tutos VB\Test de Computacion\Test de Computacion\obj\x86\Debug\Test de Computacion.exe
+C:\Users\Marco\Documents\Tutos VB\Test de Computacion\Test de Computacion\obj\x86\Debug\Test de Computacion.xml
+C:\Users\Marco\Documents\Tutos VB\Test de Computacion\Test de Computacion\obj\x86\Debug\Test de Computacion.pdb
+C:\Users\Marco\Documents\Tutos VB\Test de Computacion\Test de Computacion\bin\Debug\Test de Computacion.exe
+C:\Users\Marco\Documents\Tutos VB\Test de Computacion\Test de Computacion\bin\Debug\Test de Computacion.pdb
+C:\Users\Marco\Documents\Tutos VB\Test de Computacion\Test de Computacion\bin\Debug\Test de Computacion.xml
+C:\Users\Marco\Documents\Tutos VB\Test de Computacion\Test de Computacion\obj\x86\Debug\Test_de_Computacion.Form1.resources
+C:\Users\Marco\Documents\Tutos VB\Test de Computacion\Test de Computacion\obj\x86\Debug\Test_de_Computacion.Resources.resources
+C:\Users\Marco\Documents\Tutos VB\Test de Computacion\Test de Computacion\obj\x86\Debug\Test de Computacion.vbproj.GenerateResource.Cache

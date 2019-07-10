@@ -1,0 +1,9 @@
+C:\Users\Marco\AppData\Local\Temporary Projects\Tst\bin\Debug\Tst.exe
+C:\Users\Marco\AppData\Local\Temporary Projects\Tst\bin\Debug\Tst.pdb
+C:\Users\Marco\AppData\Local\Temporary Projects\Tst\bin\Debug\Tst.xml
+C:\Users\Marco\AppData\Local\Temporary Projects\Tst\obj\x86\Debug\Tst.Form1.resources
+C:\Users\Marco\AppData\Local\Temporary Projects\Tst\obj\x86\Debug\Tst.Resources.resources
+C:\Users\Marco\AppData\Local\Temporary Projects\Tst\obj\x86\Debug\Tst.vbproj.GenerateResource.Cache
+C:\Users\Marco\AppData\Local\Temporary Projects\Tst\obj\x86\Debug\Tst.exe
+C:\Users\Marco\AppData\Local\Temporary Projects\Tst\obj\x86\Debug\Tst.xml
+C:\Users\Marco\AppData\Local\Temporary Projects\Tst\obj\x86\Debug\Tst.pdb
